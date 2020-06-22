@@ -1,6 +1,6 @@
 # PlacementApp
 This Java App provides a visualization of floorplanning using iterative improvement or simulated annealing.
-It was originally developed as a Java Applet as part of the Lafayette College CADApplets project and ported to an application.
+It was originally developed as a Java Applet as part of the Lafayette College CADApplets project and ported to an application.  The placement package contains three distinct applications which are described below:
 
 ## PlacementApp
 PlacementApp shows the placment of a set of modules on a placeemnt surface and a cost function that is a weighted sum of bounding box area, wirelength, and module overlap.  Drag a module to change its position or
