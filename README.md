@@ -6,6 +6,6 @@ It was originally developed as a Java Applet as part of the Lafayette College CA
 
 ![Iterative Improvement Screenshot](https://github.com/jnestor/PlacementApp/blob/master/PlacementApp_IterImprovement.png)
 
-## Screenshot of FloorplannerApp (Simulatee Annealing)
+## Screenshot of FloorplannerApp (Simulated Annealing)
 
 ![Simulated Annealing Screenshot](https://github.com/jnestor/PlacementApp/blob/master/PlacementApp_SimulatedAnnealing.png)
