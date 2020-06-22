@@ -4,5 +4,4 @@ It was originally developed as a Java Applet as part of the Lafayette College CA
 
 ![Iterative Improvement Screenshot](https://github.com/jnestor/PlacementApp/blob/master/PlacementApp_IterImprovement.png)
 
-![Simulated Annealing Screenshot](https://github.com/jnestor/PlacementApp/blob/master/Plac
-ementApp_SimulatedAnnealing.png)
+![Simulated Annealing Screenshot](https://github.com/jnestor/PlacementApp/blob/master/PlacementApp_SimulatedAnnealing.png)
