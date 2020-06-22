@@ -19,4 +19,4 @@ If not, the move is reversed.  Move attempts are shown on the right hand pane; a
 FloorPlannerApp provides a visualization of placement improvement using Simulated
 Annealing.  User can view individual moves or the overall coooling schedule (shown here)
 
-![Simulated Annealing Screenshot](https://github.com/jnestor/PlacementApp/blob/master/FloorPlannerApp.png)
+![Simulated Annealing Screenshot](https://github.com/jnestor/PlacementApp/blob/master/FloorplannerApp.png)
