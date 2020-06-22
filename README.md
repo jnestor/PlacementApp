@@ -13,7 +13,7 @@ IterImproveApp provides a visualization of placement improvement by iterative im
 When running it chooses a module at random and applies a random move (e.g., move horizontally or vertically by a random amount, rotate, or flip).  If the cost function is reduced as a result, the move is accepted.
 If not, the move is reversed.  Move attempts are shown on the right hand pane; accepted moves are shaded green.
 
-![Iterative Improvement Screenshot](https://github.com/jnestor/PlacementApp/blob/master/IterImprovement.png)
+![Iterative Improvement Screenshot](https://github.com/jnestor/PlacementApp/blob/master/IterImproveApp.png)
 
 ## FloorplannerApp (Simulated Annealing)
 FloorPlannerApp provides a visualization of placement improvement using Simulated
